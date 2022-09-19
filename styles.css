@@ -1,0 +1,48 @@
+.container {
+  width: 200px;
+  height: 200px;
+ 
+}
+
+.flex1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.bigcontainer {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+.ta {
+  text-align: center;
+}
+
+.pt20 {
+  padding-top: 20px;
+}
+
+body {
+  background-color: pink;
+}
+
+l {
+  color: red;
+}
+
+.bgc {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  color: darkgray;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
